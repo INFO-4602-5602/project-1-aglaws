@@ -1,0 +1,44 @@
+body {
+    background-color: #CFB87C;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#ralphie {
+    background-color: #fff;
+    text-align: center;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #000;
+}
+
+.line {
+    fill: none;
+    stroke: #565A5C;
+    stroke-width: 3;
+    shape-rendering: crispEdges;
+}
+
+.point {
+    fill: #000; 
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.point2 {
+    fill: #CFB87C; 
+    stroke: #000;
+    stroke-width: 3;
+}
+
+.bar {
+    fill: #000; 
+    stroke: #000;
+}
+
+.label {
+    text-anchor: middle;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
